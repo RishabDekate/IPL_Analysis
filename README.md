@@ -5,13 +5,10 @@ This project consists of data which is gathered from the IPL matches from 2008-2
 Project Steps:
 1. Requirement Gathering
 2. Stakeholders in project
-3. Import data in MS SQL Server
-4. Import Data PostgreSql DB
-5. Connecting Power Bi to Database
-6. Data Cleaning
-7. Data Processing
-8. Data Modelling
-9. Time Intelligence Function
-10. Data Visualization
-11. Creating Dashboard
-12. Generating Insights
+3. Connecting Power Bi to Database
+4. Data Cleaning
+5. Data Processing
+6. Data Modelling
+7. Data Visualization
+8. Creating Dashboard
+9. Generating Insights
