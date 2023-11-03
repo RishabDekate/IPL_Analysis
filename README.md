@@ -5,7 +5,7 @@ This project consists of data which is gathered from the IPL matches from 2008-2
 Project Steps:
 1. Requirement Gathering
 2. Stakeholders in project
-3. Connecting Power Bi to Database
+3. Connecting Tableau to Database
 4. Data Cleaning
 5. Data Processing
 6. Data Modelling
